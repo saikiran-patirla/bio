@@ -196,3 +196,61 @@ I'm a versatile technology professional who bridges the gap between **business s
 ---
 
 ## 🧠 Core Data Science Competencies
+├── Machine Learning & AI
+│ ├── Supervised Learning (Classification, Regression)
+│ ├── Unsupervised Learning (Clustering, Dimensionality Reduction)
+│ ├── Deep Learning (CNNs, Transformers, LLMs)
+│ └── NLP (Text Classification, NER, Summarization)
+│
+├── Statistical Modeling
+│ ├── Probability & Hypothesis Testing
+│ ├── Regression Analysis
+│ ├── Clustering Algorithms
+│ └── Time-Series Forecasting
+│
+├── End-to-End ML Pipelines
+│ ├── Data Collection & Cleaning
+│ ├── Feature Engineering
+│ ├── Model Training & Evaluation
+│ └── Deployment & Monitoring
+│
+└── Applied AI
+├── Generative AI & LLM Fine-tuning
+├── RAG (Retrieval Augmented Generation)
+├── AI Agents & Automation
+└── Graph-based ML
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+| 📧 Email | 💼 LinkedIn | 📱 Phone |
+|----------|-------------|----------|
+| [saikiranpatirla@gmail.com](mailto:saikiranpatirla@gmail.com) | [sai-kiran-patirla](https://www.linkedin.com/in/sai-kiran-patirla/) | +1-217-926-3526 |
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Feel free to explore my repositories and reach out for collaboration opportunities! ⭐</i>
+</div>
